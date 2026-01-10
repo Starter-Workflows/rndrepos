@@ -6,4 +6,4 @@ on:
 jobs:
 
   info:
-    uses: Starter-Workflows/common/.github/workflow/repo-info.yml@main
+    uses: Starter-Workflows/common/.github/workflows/repo-info.yml@main
